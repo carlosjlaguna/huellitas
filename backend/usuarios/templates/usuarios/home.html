@@ -1,0 +1,23 @@
+{% extends 'usuarios/base.html' %}
+
+{% block title %}Inicio - Huellitas{% endblock %}
+
+{% block content %}
+<h2>Catálogo de Mascotas Disponibles</h2>
+<p>Bienvenido a Huellitas. Explora nuestras mascotas listas para encontrar un hogar responsable.</p>
+
+<div style="display: flex; gap: 20px; margin-top: 20px;">
+    <div style="background: white; padding: 15px; border-radius: 8px; border: 1px solid #ddd; width: 200px;">
+        <h3>Max</h3>
+        <p><strong>Especie:</strong> Perro</p>
+        <p><strong>Edad:</strong> 2 años</p>
+        <p><strong>Estado:</strong> En Adopción</p>
+    </div>
+    <div style="background: white; padding: 15px; border-radius: 8px; border: 1px solid #ddd; width: 200px;">
+        <h3>Luna</h3>
+        <p><strong>Especie:</strong> Gato</p>
+        <p><strong>Edad:</strong> 1 año</p>
+        <p><strong>Estado:</strong> En Adopción</p>
+    </div>
+</div>
+{% endblock %}
