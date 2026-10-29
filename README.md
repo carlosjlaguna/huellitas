@@ -67,6 +67,6 @@ huellitas/
 
 A continuación se presenta la infografía resumen que plasma la metodología en V (fase descendente), el stack tecnológico y la matriz de roles del sistema Huellitas:
 
-![Infografía Módulo 1](docs/infografia-m1.png)
+![Infografía](https://raw.githubusercontent.com/carlosjlaguna/huellitas/main/docs/infografia-m1.png)
 
-> También puedes descargar la versión en alta calidad en formato PDF haciendo clic [aquí](docs/infografia-m1-pdf.pdf).
+> También puedes descargar la versión en alta calidad en formato PDF haciendo clic [aquí](https://raw.githubusercontent.com/carlosjlaguna/huellitas/main/docs/infografia-m1-pdf.pdf).
