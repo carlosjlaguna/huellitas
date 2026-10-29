@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 # Proyecto Huellitas
 
 # Huellitas - Plataforma de Adopción y Seguimiento de Mascotas
 
 Sistema web integral para digitalizar y centralizar el proceso de adopción de mascotas y realizar el seguimiento posterior a la adopción.
 
----
 
 ## Fase Descendente de la Metodología en V
 
@@ -40,7 +38,6 @@ El proyecto se divide en las siguientes aplicaciones dentro de Django:
 ### 5. Punto de Inflexión: Codificación (Coding)
 Pase a la fase práctica: construcción del código fuente sobre la arquitectura en Docker y control de versiones en GitHub.
 
----
 
 ## Matriz de Roles y Privilegios
 
@@ -51,7 +48,6 @@ Pase a la fase práctica: construcción del código fuente sobre la arquitectura
 | **Gestor (Rescatista)** | Publicar/editar mascotas, revisar y aprobar/rechazar solicitudes, verificar bitácora de seguimiento. |
 | **Administrador** | Acceso total al panel Django Admin, gestión global de usuarios, roles, métricas y base de datos. |
 
----
 
 ## Estructura del Proyecto
 
