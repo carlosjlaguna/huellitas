@@ -51,7 +51,7 @@ Pase a la fase práctica: construcción del código fuente sobre la arquitectura
 
 ## Estructura del Proyecto
 
-```text
+```
 huellitas/
 ├── backend/
 │   ├── core/           # Configuración base de Django
@@ -61,7 +61,7 @@ huellitas/
 ├── frontend/           # Aplicación frontend con Vite.js
 ├── docker-compose.yml  # Configuración de servicios Docker (Django + MySQL)
 └── README.md
-
+```
 
 ## Entregable: Infografía
 
